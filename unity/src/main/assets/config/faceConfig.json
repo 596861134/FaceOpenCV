@@ -1,0 +1,23 @@
+{
+    "data": [
+      {
+        "index": "0",
+        "type": "1",
+        "id": "1",
+        "face": "head01.assetbundle",
+        "eye": "xie_cs_2017_8_18_1.assetbundle",
+        "nose": "xie_cs_2017_8_18_1.assetbundle",
+        "mouth": "xie_cs_2017_8_18_1.assetbundle"
+      },
+
+      {
+        "index": "1",
+        "type": "1",
+        "id": "2",
+		    "face": "head02.assetbundle",
+		    "eye": "xie_cs_2017_8_18_1.assetbundle",
+		    "nose": "xie_cs_2017_8_18_1.assetbundle",
+		    "mouth": "xie_cs_2017_8_18_1.assetbundle"
+      }
+    ]
+}

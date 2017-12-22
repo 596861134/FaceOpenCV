@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+		"index": "0",
+		"type": "1",
+		"id": "1",
+		"cloth": "yf_cs_2017_8_18.assetbundle",
+		"shoe": "xie_cs_2017_8_18_1.assetbundle",
+		"clip": "girl@_skill1_6.assetbundle",
+		"background": "5.assetbundle",
+	    "music": "",
+	    "other": ""
+        },
+      {
+        "index": "1",
+        "type": "1",
+        "id": "2",
+        "cloth": "yf_cs_2017_8_18_1.assetbundle",
+        "shoe": "xie_cs_2017_8_18_1.assetbundle",
+        "clip": "girl@_skill1_6.assetbundle",
+        "background": "3.assetbundle",
+        "music": "",
+        "other": ""
+      },
+      {
+		"index": "2",
+		"type": "1",
+		"id": "3",
+		"cloth": "yf_cs_2017_8_18_100.assetbundle",
+		"shoe": "xie_cs_2017_8_18_1.assetbundle",
+		"clip": "girl@_skill1_6.assetbundle",
+		"background": "3.assetbundle",
+	    "music": "",
+	    "other": ""
+        }
+    ]
+}

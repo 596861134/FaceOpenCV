@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:CameraBridgeViewBase="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/activity_camera"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+    <org.opencv.android.JavaCameraView
+        android:id="@+id/jcv_camera_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        CameraBridgeViewBase:camera_id="front"
+        CameraBridgeViewBase:show_fps="true"/>
+
+    <ImageView
+        android:id="@+id/img_face"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|right"/>
+
+  <!--  <Button
+        android:id="@+id/back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:text="后置摄像头"/>
+
+    <Button
+        android:id="@+id/front"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toLeftOf="@+id/back"
+        android:text="前置摄像头"/>-->
+
+</RelativeLayout>
